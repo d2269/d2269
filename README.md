@@ -26,7 +26,7 @@
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e2120?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/stanislavd2269)
 [![Telegram](https://img.shields.io/badge/-Telegram-1e2120?style=flat&logo=Telegram)](https://t.me/Dudkov)
-[![DevOps](https://img.shields.io/badge/-SFDevOps-1e2120?style=flat&logo=salesforce)](https://www.sfdevops.info/profile/1-d2269/)
+[![DevOps](https://img.shields.io/badge/-SFDevOps-1e2120?style=flat&logo=salesforce)](https://www.sfdevops.info/)
 
 
 
