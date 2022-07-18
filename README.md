@@ -28,5 +28,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-1e2120?style=flat&logo=Telegram)](https://t.me/Dudkov)
 [![DevOps](https://img.shields.io/badge/-SFDevOps-1e2120?style=flat&logo=salesforce)](https://www.sfdevops.info/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1e2120?style=flat&logo=Twitter)](https://twitter.com/StanislavD8)
+[![Matrix](https://img.shields.io/badge/-Matrix-1e2120?style=flat&logo=Matrix)](https://matrix.to/#/@stanislavd2269:matrix.org)
 
 
